@@ -12,7 +12,7 @@ allprojects {
 ## step 2 :
 ```
 dependencies {
-	 implementation 'com.github.OOOOOldZhu:SingleClick:1.1.0'
+	 implementation 'com.github.OOOOOldZhu:SingleClick:1.1'
 }
 ```
 ## How to use:
